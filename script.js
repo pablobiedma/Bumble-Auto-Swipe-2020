@@ -1,5 +1,8 @@
-x = setInterval(
-  function(){
-   var elem = document.getElementsByClassName("recsGamepad__button--like");
-   elem[0].click()
-  },200)
+var numba = 1;
+var doshit = function(){
+    document.querySelector('[aria-label="Like"]').click();
+    console.log(numba);
+    numba++;
+    setTimeout(doshit, 100);
+};
+setTimeout(doshit, 100);
