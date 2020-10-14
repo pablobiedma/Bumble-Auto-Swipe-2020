@@ -23,3 +23,8 @@ var doshit = function(){
     setTimeout(doshit, 100);
 };
 setTimeout(doshit, 100);
+
+
+///////////////
+
+If you found it useful, a donation would be extremely appreciated :)
