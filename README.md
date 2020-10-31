@@ -4,18 +4,18 @@ Javascript simple script for saving time and swiping RIGHT all the time on TINDE
 
 ## Instructions: 
 
-### Go to the script.js file and copy it
+#### 1 - Go to the script.js file and copy it
 
-### Go to Tinder.com or Bumble.com
+#### 2 - Go to Tinder.com or Bumble.com
 
-### Right click->inspect->console
+#### 3 - Right click->inspect->console
 
-### Paste the script.js file and hit enter, in the console
+#### 4 - Paste the script.js file and hit enter, in the console
 
-### Enjoy your date and stay safe
+#### 5 - Enjoy your date, stay safe, and donate if it worked!
 
 
-## shortcut: 
+## Shortcut: 
 
 ``` var numba = 1;
 var doshit = function(){
