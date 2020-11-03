@@ -28,4 +28,4 @@ setTimeout(doshit, 100);
 ```
 
 
-## If you found it useful, a donation would be extremely appreciated :)
+## To help me update this repo, a donation would be extremely appreciated :)
