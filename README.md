@@ -17,7 +17,8 @@ Javascript simple script for saving time and swiping RIGHT all the time on TINDE
 
 ## Shortcut: 
 
-``` var numba = 1;
+``` 
+var numba = 1;
 var doshit = function(){
     document.querySelector('[aria-label="Like"]').click();
     console.log(numba);
