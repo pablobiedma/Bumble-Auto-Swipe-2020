@@ -1,12 +1,12 @@
 # Auto-Swipe-2020
 
-Javascript simple script for saving time and swiping RIGHT all the time on TINDER or BUMBLE
+Javascript simple script for saving time and swiping RIGHT all the time on BUMBLE
 
 ## Instructions: 
 
 #### 1 - Go to the script.js file and copy it
 
-#### 2 - Go to Tinder.com or Bumble.com
+#### 2 - Go to Bumble.com
 
 #### 3 - Right click->inspect->console
 
